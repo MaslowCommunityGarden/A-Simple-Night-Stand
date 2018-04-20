@@ -7,3 +7,5 @@ This was one of the first things I made and I am a little hesitant to post it be
 The download includes both the 3D sketchup models and svg files which can be used to generate gcode.
 
 Note from jwolter: This project was the co-winner of the Maslow Forums' Community Gardener badge on April 11, 2018.
+
+![night stand from the side](https://github.com/MaslowCommunityGarden/A-Simple-Night-Stand/blob/master/updated%20nightstand.jpg)
