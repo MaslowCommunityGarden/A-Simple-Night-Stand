@@ -1,1 +1,11 @@
-IyBBIFNpbXBsZSBOaWdodCBTdGFuZAoKQSBzaW1wbGUgb3BlbiBzb3VyY2UgbmlnaHQgc3RhbmQKClRoaXMgd2FzIG9uZSBvZiB0aGUgZmlyc3QgdGhpbmdzIEkgbWFkZSBhbmQgSSBhbSBhIGxpdHRsZSBoZXNpdGFudCB0byBwb3N0IGl0IGJlY2F1c2UgaWYgSSB3ZXJlIHRvIGJ1aWxkIGl0IGFnYWluIEkgd291bGQgbWFrZSBzb21lIGltcHJvdm1lbnRzLi4uYnV0IEkgZ3Vlc3MgdGhhdCdzIHRoZSB3aG9sZSBwb2ludCBvZiBvcGVuIHNvdXJjZSwgcmlnaHQ/CgpVcGRhdGU6IEkndmUgcmVkcmF3biB0aGlzIGFzIGFuIFtPblNoYXBlXShodHRwczovL2NhZC5vbnNoYXBlLmNvbS9kb2N1bWVudHMvMTlhYTFmOWJmY2VkNDM4ZGQ3NGEwMzI1L3cvNjRiNmQ1ODUxZGY5MDBlNWRlOGNkOTZhL2UvYjkxNjczNzNkYzQ3Zjk5ODIxZmQ2ZjRhKSBkb2N1bWVudAoKTm90ZSBmcm9tIGp3b2x0ZXI6IFRoaXMgcHJvamVjdCB3YXMgdGhlIGNvLXdpbm5lciBvZiB0aGUgTWFzbG93IEZvcnVtcycgQ29tbXVuaXR5IEdhcmRlbmVyIGJhZGdlIG9uIEFwcmlsIDExLCAyMDE4LgoKIVtuaWdodCBzdGFuZCBmcm9tIHRoZSBzaWRlXShodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vTWFzbG93Q29tbXVuaXR5R2FyZGVuL0EtU2ltcGxlLU5pZ2h0LVN0YW5kL21hc3Rlci91cGRhdGVkJTIwbmlnaHRzdGFuZC5qcGcpCg==
+# A Simple Night Stand
+
+A simple open source night stand
+
+This was one of the first things I made and I am a little hesitant to post it because if I were to build it again I would make some improvments...but I guess that's the whole point of open source, right?
+
+Update: I've redrawn this as an [OnShape](https://cad.onshape.com/documents/19aa1f9bfced438dd74a0325/w/64b6d5851df900e5de8cd96a/e/b9167373dc47f99821fd6f4a) document
+
+Note from jwolter: This project was the co-winner of the Maslow Forums' Community Gardener badge on April 11, 2018.
+
+![night stand from the side](https://github.com/MaslowCommunityGarden/A-Simple-Night-Stand/blob/master/updated%20nightstand.jpg)
