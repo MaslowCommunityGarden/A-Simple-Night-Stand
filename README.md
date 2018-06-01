@@ -8,4 +8,4 @@ Update: I've redrawn this as an [OnShape](https://cad.onshape.com/documents/19aa
 
 Note from jwolter: This project was the co-winner of the Maslow Forums' Community Gardener badge on April 11, 2018.
 
-![night stand from the side](https://github.com/MaslowCommunityGarden/A-Simple-Night-Stand/blob/master/updated%20nightstand.jpg)
+![night stand from the side](https://raw.githubusercontent.com/MaslowCommunityGarden/A-Simple-Night-Stand/master/updated%20nightstand.jpg)
